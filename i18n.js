@@ -146,45 +146,45 @@
       },
       index: {
         pageTitle: '小學科學選單',
-        title: '程中杯',
-        subtitle: '天主教崇德英文中學',
+        title: '振中杯',
+        subtitle: '明愛胡振中書院',
         learningFriction: '學習摩擦力',
         learningDensity: '學習密度',
-        vibeTheCode: '程式氛圍',
+        vibeTheCode: '振式氛圍',
         video: '影片',
         quiz: '小測驗',
         competitionGuidelines: '比賽指引',
         chineseVersion: '中文版本'
       },
       video: {
-        pageTitle: '摩擦力影片課程 — 程中杯',
-        title: '摩擦力影片課程',
-        subtitle: '觀看我們精心挑選的 YouTube 課程，加強你對摩擦力的理解。',
+        pageTitle: '摩擦力影片課振 — 振中杯',
+        title: '摩擦力影片課振',
+        subtitle: '觀看我們精心挑選的 YouTube 課振，加強你對摩擦力的理解。',
         watchOnYouTube: '在 YouTube 觀看',
         backToHome: '返回主頁'
       },
       video2: {
-        pageTitle: '密度影片課程 — 程中杯',
-        title: '密度影片課程',
-        subtitle: '觀看我們精心挑選的 YouTube 課程，加強你對密度的理解。',
+        pageTitle: '密度影片課振 — 振中杯',
+        title: '密度影片課振',
+        subtitle: '觀看我們精心挑選的 YouTube 課振，加強你對密度的理解。',
         watchOnYouTube: '在 YouTube 觀看',
         backToHome: '返回主頁'
       },
       quizMenu: {
-        pageTitle: '密度入口 — 程中杯',
+        pageTitle: '密度入口 — 振中杯',
         title: '密度入口',
         calculatingDensity: '計算密度',
         returnToMainMenu: '返回主頁'
       },
       quizSelection: {
-        pageTitle: '小測驗選單 — 程中杯',
+        pageTitle: '小測驗選單 — 振中杯',
         title: '小測驗選單',
         potentialKinetic: '位能與動能',
         frictionPhysics: '摩擦力物理',
         returnToMain: '返回主頁'
       },
       frictionQuiz: {
-        pageTitle: '摩擦力小測驗 — 程中杯',
+        pageTitle: '摩擦力小測驗 — 振中杯',
         title: '摩擦力小實驗',
         section1: '對或錯題',
         section2: '填空題',
@@ -208,7 +208,7 @@
         q5: '3. 摩擦力會使移動的物體 <span class="blank-space"></span>。'
       },
       potentialQuiz: {
-        pageTitle: '位能與動能小測驗 — 程中杯',
+        pageTitle: '位能與動能小測驗 — 振中杯',
         title: '能量實驗小測驗',
         part1: '第一部分：配對定義',
         part2: '第二部分：填空題',
@@ -238,7 +238,7 @@
         escaped: '消失'
       },
       densityQuiz: {
-        pageTitle: '計算密度小測驗 — 程中杯',
+        pageTitle: '計算密度小測驗 — 振中杯',
         quizTitle: '密度小測驗',
         densityFormula: '密度公式',
         densityFormulaSentence: '密度 =',
