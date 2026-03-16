@@ -150,7 +150,7 @@
         subtitle: '明愛胡振中書院',
         learningFriction: '學習摩擦力',
         learningDensity: '學習密度',
-        vibeTheCode: '振式氛圍',
+        vibeTheCode: '氛圍編程',
         video: '影片',
         quiz: '小測驗',
         competitionGuidelines: '比賽指引',
