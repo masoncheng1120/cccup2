@@ -157,16 +157,16 @@
         chineseVersion: '中文版本'
       },
       video: {
-        pageTitle: '摩擦力影片課振 — 振中杯',
-        title: '摩擦力影片課振',
-        subtitle: '觀看我們精心挑選的 YouTube 課振，加強你對摩擦力的理解。',
+        pageTitle: '摩擦力影片課程 — 振中杯',
+        title: '摩擦力影片課程',
+        subtitle: '觀看我們精心挑選的 YouTube 課程，加強你對摩擦力的理解。',
         watchOnYouTube: '在 YouTube 觀看',
         backToHome: '返回主頁'
       },
       video2: {
-        pageTitle: '密度影片課振 — 振中杯',
-        title: '密度影片課振',
-        subtitle: '觀看我們精心挑選的 YouTube 課振，加強你對密度的理解。',
+        pageTitle: '密度影片課程 — 振中杯',
+        title: '密度影片課程',
+        subtitle: '觀看我們精心挑選的 YouTube 課程，加強你對密度的理解。',
         watchOnYouTube: '在 YouTube 觀看',
         backToHome: '返回主頁'
       },
