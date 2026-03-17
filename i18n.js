@@ -12,7 +12,7 @@
       },
       index: {
         pageTitle: 'Primary Science Menu',
-        title: 'Cheng Chung Cup',
+        title: 'STEAM@Cheng-chung Cup',
         subtitle: 'By Caritas Wu Cheng-chung College',
         learningFriction: 'Learning Friction',
         learningDensity: 'Learning Density',
@@ -23,34 +23,34 @@
         chineseVersion: '中文版本'
       },
       video: {
-        pageTitle: 'Friction Video Lesson — Cheng Chung Cup',
+        pageTitle: 'Friction Video Lesson — STEAM@Cheng-chung Cup',
         title: 'Friction Video Lesson',
         subtitle: 'Watch our curated YouTube lesson to strengthen your understanding of friction.',
         watchOnYouTube: 'Watch on YouTube',
         backToHome: 'Back to Home'
       },
       video2: {
-        pageTitle: 'Density Video Lesson — Cheng Chung Cup',
+        pageTitle: 'Density Video Lesson —  Chung Cup',
         title: 'Density Video Lesson',
         subtitle: 'Watch our curated YouTube lesson to strengthen your understanding of density.',
         watchOnYouTube: 'Watch on YouTube',
         backToHome: 'Back to Home'
       },
       quizMenu: {
-        pageTitle: 'Density Portal — Cheng Chung Cup',
+        pageTitle: 'Density Portal — STEAM@Cheng-chung Cup',
         title: 'Density Portal',
         calculatingDensity: 'Calculating Density',
         returnToMainMenu: 'Return to Main Menu'
       },
       quizSelection: {
-        pageTitle: 'Quiz Selection — Cheng Chung Cup',
+        pageTitle: 'Quiz Selection — STEAM@Cheng-chung Cup',
         title: 'Quiz Portal',
         potentialKinetic: 'Potential & Kinetic',
         frictionPhysics: 'Friction Physics',
         returnToMain: 'Return to Main Menu'
       },
       frictionQuiz: {
-        pageTitle: 'Friction Quiz — Cheng Chung Cup',
+        pageTitle: 'Friction Quiz — STEAM@Cheng-chung Cup',
         title: 'Friction Lab',
         section1: 'True / False Questions',
         section2: 'Fill in the blanks',
@@ -74,7 +74,7 @@
         q5: '3. Friction makes moving objects <span class="blank-space"></span>.'
       },
       potentialQuiz: {
-        pageTitle: 'Potential and Kinetic Energy Quiz — Cheng Chung Cup',
+        pageTitle: 'Potential and Kinetic Energy Quiz — STEAM@Cheng-chung Cup',
         title: 'Energy Lab Assessment',
         part1: 'Part 1: Definitions Matching',
         part2: 'Part 2: Fill in the Blanks',
@@ -104,7 +104,7 @@
         escaped: 'Escaped'
       },
       densityQuiz: {
-        pageTitle: 'Calculating Density Quiz — Cheng Chung Cup',
+        pageTitle: 'Calculating Density Quiz — STEAM@Cheng-chung Cup',
         quizTitle: 'Density Quiz',
         densityFormula: 'Density Formula',
         densityFormulaSentence: 'Density =',
